@@ -6,10 +6,10 @@
 ### [遊戲體驗-2048 online連結](https://2048.ninja/)
 ### 圖示
 ![image](https://github.com/tyrso/2048_demo/assets/93824347/37718a9e-3549-4190-871f-6dc5a24da319)
-向下移動後:
-![image](https://github.com/tyrso/2048_demo/assets/93824347/901696a7-03d9-41e0-8f96-0951fd0250db)
+向左移動後:
+![image](https://github.com/tyrso/2048_demo/assets/93824347/9bb3af8e-a98c-4d2c-aa6e-87b0f1937d28)
 出現新方塊:
-![image](https://github.com/tyrso/2048_demo/assets/93824347/12b31943-8a4e-4ddf-88a1-54031d8594bd)
+![image](https://github.com/tyrso/2048_demo/assets/93824347/eef3c418-39aa-4695-8928-9876a083e2ce)
 
 
 
